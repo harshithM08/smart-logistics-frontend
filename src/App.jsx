@@ -4,7 +4,7 @@ import "./App.css";
 
 
 
-const API = "http://localhost:8081/api";
+const API = "https://smart-logistics-backend-production.up.railway.app/api";
 
 
 
